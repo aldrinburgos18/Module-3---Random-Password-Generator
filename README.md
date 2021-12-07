@@ -1,1 +1,3 @@
-# Password Generator Starter Code
+# Random Password Generator
+
+A random password generator created using Javascript.
