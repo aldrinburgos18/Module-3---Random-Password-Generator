@@ -24,14 +24,14 @@ No installation needed.
 ## Screenshots
 
 This is what the landing page looks like:
-![Landing Page](./assets/img/screenshot-1.png)
+![Landing Page](./screenshot-1.png)
 
 The user can choose the length of their password:  
-![Password Length](./assets/img/screenshot-2.png)
+![Password Length](./screenshot-2.png)
 
 The user can select the type of characters they want in their password:  
-![Criteria 1](./assets/img/screenshot-3.png)
-![Criteria 2](./assets/img/screenshot-4.png)
+![Criteria 1](./screenshot-3.png)   
+![Criteria 2](./screenshot-4.png)
 
 ## Contributing
 
